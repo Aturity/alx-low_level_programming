@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/** main - Determines if a numbver is positive, negative or
+/** 
+ * main - Determines if a numbver is positive, negative or
  * zero
  * we shall see after applying our code on betty if it worked or not
  * Return: Always 0 (success)
