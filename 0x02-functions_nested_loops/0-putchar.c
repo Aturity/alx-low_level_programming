@@ -1,12 +1,13 @@
 #include "main.h"
 /**
  * main - print _putchar
- * is written by atuh
+ * is written by mbah
  * Return: 0
  */
+
 int main(void)
 {
-_putchar('-');
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
