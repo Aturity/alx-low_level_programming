@@ -2,6 +2,7 @@
 
 int main(void)
 {
+
 int n;
 int a[5];
 int *p;
@@ -10,6 +11,7 @@ int *p;
 	p = &n;
 /*
 * write your line of code here...
+* Description: prints a[2] = 98, followed by a new line
 * Remember:
 * - you are not allowed to use a
 * - you are not allowed to modify p
